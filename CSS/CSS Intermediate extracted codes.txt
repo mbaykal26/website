@@ -1,0 +1,16 @@
+    /*  <img src="cloud.png" alt="cloud-img"> */
+
+  <h1>My Lovely PAge</h1>
+      <p class= "p1">What a wonderful life</p>
+      <p class="p2">A fucking programmer</p>
+
+  
+
+
+
+
+
+
+<span class= "s2">world</span>
+      <img src="cloud.png" alt="cloud-img">
+      <img src="mountain.png" alt="mountain-img">

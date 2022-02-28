@@ -1,0 +1,54 @@
+body {
+  margin: 0px;
+  text-align: center;
+  font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+  font-size: 1em;
+
+}
+
+.h1 {
+  margin: 50px auto auto;
+  font-size: 3rem;
+  /*font-family: "Sacramento", cursive;*/
+
+}
+.h2 {
+  font-size: 3rem;
+
+}
+
+.top-container {
+  background-color: #66BFBF;
+  position: relative;
+  padding-top: 100px;
+
+}
+middle-container {
+  background-color: blue;
+  width: 200px;
+  height: 200px;
+
+}
+bottom-container {
+  background-color: blue;
+  width: 200px;
+  height: 200px;
+
+}
+
+.bottom-cloud {
+
+  position: absolute;
+  left: 300px;
+  top: 300px;
+}
+
+.top-cloud {
+  position: absolute;
+  right:  300px;
+  top: 50px;
+
+}
+
+
+}
